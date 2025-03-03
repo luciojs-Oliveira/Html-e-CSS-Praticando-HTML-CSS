@@ -120,4 +120,25 @@ Alternativa correta! Não conseguimos executar o código, apenas fazer o deploy 
 
 ...............................................................................................................
 
+ Lista de exercícios
+ Próxima Atividade
+
+1) Criando um footer estilizado
+Você acabou de finalizar o desenvolvimento da interface do Alura Plus e agora tem o desafio de criar um footer (rodapé) estilizado para o site. O HTML já foi construído, mas falta o CSS. Utilize suas habilidades para criar um footer que combine com o design do site, considerando aspectos como cores, margens, alinhamento e tipografia. Lembre-se de aplicar práticas de design responsivo para garantir uma boa visualização em diferentes dispositivos.
+
+2) Compartilhando seu projeto no GitHub
+Agora que o projeto Alura Plus está quase concluído, é hora de compartilhá-lo no GitHub. Crie um repositório no GitHub para o projeto Alura Plus. Inclua todos os arquivos do projeto, como index.html, styles.css e a pasta de imagens. Além disso, escreva um arquivo "README.md" usando a linguagem Markdown, descrevendo o projeto, as tecnologias utilizadas e qualquer outra informação relevante. Lembre-se de tornar o repositório público para que outras pessoas possam visualizar e interagir com seu trabalho.
+
+3) Publicando seu projeto no GitHub Pages
+Você acabou de aprender sobre a funcionalidade do GitHub Pages e como é útil para compartilhar seus projetos com o mundo de uma maneira fácil e prática. Agora, é hora de colocar a mão na massa! Imagine que você tem um projeto pessoal no GitHub chamado "MeuPortfolio". Sua tarefa é publicar este projeto usando o GitHub Pages, para que você possa compartilhar o link com seus amigos e contatos profissionais.
+
+4) Publicando um projeto na Vercel
+Você acabou de aprender como publicar um projeto utilizando a Vercel, conectando-a à sua conta do GitHub. Agora, é hora de colocar esse conhecimento em prática. Imagine que você está trabalhando em um projeto pessoal, um site simples que você desenvolveu e quer compartilhá-lo com amigos e colegas. Utilize a Vercel para publicar este site.
+
+5) Alterando a cor do botão via GitHub e Visual Studio Code no navegador
+Você trabalha com desenvolvimento web e está criando um projeto que envolve ajustes frequentes de estilo. Recentemente, você decidiu alterar a cor de um botão em seu projeto. Use o Visual Studio Code diretamente no navegador, através do GitHub para fazer essa alteração.
+
+...............................................................................................................
+
+
 

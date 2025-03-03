@@ -113,3 +113,25 @@ Angular
 https://cursos.alura.com.br/formacao-angular-14
 VueJS
 https://cursos.alura.com.br/formacao-vuejs3
+
+...............................................................................................................
+
+https://cursos.alura.com.br/extra/alura-mais/transformando-um-site-em-responsivo-c1601
+
+Para saber mais: Responsividade
+ Próxima Atividade
+
+Durante este treinamento construímos o Alura+ apenas para telas maiores, como a de computadores. Para complementar seu projeto com aspectos responsivos, você pode conferir passo a passo no Alura+ "Transformando um site em responsivo".
+
+Por que devemos nos preocupar com responsividade?
+
+São registrados números cada vez maiores de usuários que acessam sites através de dispositivos móveis. Sendo assim, quando um site não é feito ou nem ao menos adaptado para o mobile, perde-se um grande público, que não tem boa usabilidade quando acessa através de um dispositivo como esse.
+
+Já em 2015, o Google já falava sobre essa tendência e passou a priorizar sites que são mobile friendly (sites amigáveis para dispositivos móveis) nos resultados das buscas.
+
+Levando em conta isso, que tal já começar aplicando responsividade nesse projeto? Não deixe de assistir o vídeo citado nessa atividade!
+
+Bons estudos! :)
+
+...............................................................................................................
+
