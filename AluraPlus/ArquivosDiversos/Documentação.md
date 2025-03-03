@@ -68,3 +68,19 @@ Você pode ler mais sobre pseudo-classes no MDN Web Docs, um projeto colaborativ
 Dica: No artigo "Como escrever um README incrível no seu Github", a instrutora Camila Alves explica como construir esse README, dando dicas e exemplos de referência.
 
 ...............................................................................................................
+
+
+Para saber mais: Deploy
+ Próxima Atividade
+
+Esse processo que nós acabamos de fazer se chama deploy. O verbo deploy, em inglês, quer dizer implantar. Em programação, seu sentido está diretamente relacionado à sua tradução literal: fazer um deploy significa colocar no ar alguma aplicação que teve seu desenvolvimento concluído. Quando um site é finalizado por um desenvolvedor e, após seus testes, é finalmente hospedado e colocado no ar, ele passa pelo processo de deploy.
+
+Primeiramente, hospedamos o Alura Plus no Github Pages, um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site. Em seguida, fizemos deploy do Alura Plus pela Vercel, uma plataforma voltada para a hospedagem gratuita de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React.
+
+Caso você tenha interesse em conhecer mais sobre esse tipo de serviço ou conhecer outros sites, vou recomendar o artigo “Heroku, Vercel e outras opções de cloud como plataforma” do João Manoel.
+
+https://docs.github.com/pt/pages/getting-started-with-github-pages/about-github-pages
+https://vercel.com/lucios-projects-bc8ad035
+https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma
+...............................................................................................................
+

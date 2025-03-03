@@ -44,3 +44,13 @@ Deploy
 
 
 clicar na imagem do projeto para ve-lo no ar.
+
+
+...............................................................................................................
+
+
+Fazer pequenas alterações no github
+
+dentro da página do projeto no github digite , ponto(.).
+
+abrira um vscode é você conseguirá fazer pequenas alterações.
