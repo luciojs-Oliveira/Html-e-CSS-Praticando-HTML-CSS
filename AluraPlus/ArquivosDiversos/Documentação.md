@@ -84,3 +84,32 @@ https://vercel.com/lucios-projects-bc8ad035
 https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma
 ...............................................................................................................
 
+Para saber mais: próximos passos
+ Próxima Atividade
+
+Terminamos o projeto Alura Plus, hospedamos e compartilhamos. Mas e agora? Para onde você deve seguir nessa jornada de estudos front-end?
+
+Primeiramente, já que você construiu o repositório desse projeto, que tal editar o arquivo README que foi criado junto com ele? O README é um arquivo com extensão .md, ou seja, ele é escrito em Markdown que é uma linguagem de marcação utilizada para converter o texto em um HTML válido. A função desse arquivo é apresentar informações do projeto, como:
+
+Descrição do seu projeto;
+Funcionalidades;
+Como os usuários podem utilizá-lo;
+Onde os usuários podem encontrar ajuda sobre seu projeto;
+Autores do projeto.
+Você pode editá-lo com o VSCode Web, da mesma maneira que fizemos no vídeo passado. Também trago algumas dicas da instrutora Camila no seu artigo “Como escrever um bom README” que tenho certeza que te ajudará a deixar o seu README bonitão :)
+https://www.alura.com.br/artigos/escrever-bom-readme
+
+Também recomendo estudar mais sobre o Github. Esse tipo de site para compartilhamento de código é usado no dia a dia das empresas, pois os códigos são compartilhados entre vários membros dentro de uma equipe. Além disso, usa-se também a ferramenta de controle de versão chamada Git. Que tal desbravar esse conteúdo no curso “Git e Github: Controle e compartilhe seu código”?
+https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
+
+Depois de tudo isso, partiu aprender uma linguagem de programação para evoluir nosso código estático? Geralmente usamos Javascript no front-end e a Alura tem diversos conteúdos para te auxiliar nisso! Que tal dar uma olhada nos cursos da formação JavaScript para front-end e quem sabe dar continuidade na Alura Plus no futuro.
+
+E por fim, nessa jornada, você vai se deparar com a escolha de ter seu primeiro pokemon… OPS! seu primeiro framework! E adivinha? A Alura também pode te ajudar com isso. Você pode encontrar conteúdos iniciais e intermediários de alguns frameworks e bibliotecas como:
+https://cursos.alura.com.br/formacao-javascript-front-end
+
+ReactJS
+https://cursos.alura.com.br/formacao-react-javascript
+Angular
+https://cursos.alura.com.br/formacao-angular-14
+VueJS
+https://cursos.alura.com.br/formacao-vuejs3
